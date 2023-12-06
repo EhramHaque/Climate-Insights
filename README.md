@@ -1,2 +1,2 @@
-# Climate-Insights
+# Climate Data
 This project aimed to analyze climate data, uncovering patterns and trends to provide valuable insights into our changing climate. I collected and cleaned data from reliable sources, ensuring quality, and conducted a thorough analysis, including statistical measures like mean, maximum, and standard deviation. The findings were visually presented for clear communication, with the overarching goal of informing decisions and addressing climate change challenges. This is important because climate change is a pressing global issue and it impacts our society. Analyzing climate data provides insights that can inform decisions related to resource allocation and various strategies.
